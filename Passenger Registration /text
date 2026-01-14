@@ -1,0 +1,29 @@
+A Java-based Passenger Registration System designed to manage passenger details efficiently. This project demonstrates object-oriented programming (OOP), data handling, and input validation by allowing users to register passengers with information like name, age, contact details, and travel data. Ideal for learning practical Java application development.
+
+Features
+
+  Add new passengers with personal and travel details.
+  View all registered passengers.
+  Update passenger information.
+  Input validation to ensure correct and complete data.
+  Demonstrates use of classes, objects, and OOP concepts in Java.
+
+Technologies Used
+
+  Java SE
+  Object-Oriented Programming
+  File handling (optional if storing data in files)
+  Console-based user interface
+
+Open the project in your preferred Java IDE (Eclipse, VS Code, NetBeans).
+  Compile and run Main.java.
+  Usage
+  Run the program.
+
+Choose options from the menu:
+
+  Register a new passenger
+  View passenger list
+  Update passenger details
+  view login dasboard
+  Logout
