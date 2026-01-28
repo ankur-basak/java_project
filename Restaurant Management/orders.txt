@@ -1,0 +1,38 @@
+Customer Name: Ankur Basak
+Phone: 01717257250
+Payment: BKASH
+
+Ordered Items:
+- Coffee (Qty: 1)
+- Lemon Tea (Qty: 1)
+
+Total Price: $8
+-----
+Customer Name: Ankur Basak
+Phone: 01717257250
+Payment: BKASH
+
+Ordered Items:
+- Coffee (Qty: 1)
+- Masala Tea (Qty: 1)
+- Lemon Tea (Qty: 1)
+
+Total Price: $11
+-----
+Customer Name: Ankur Basak
+Phone: 01717257250
+Payment: BKASH
+
+Ordered Items:
+- Masala Tea (Qty: 1)
+
+Total Price: $3
+-----
+Customer Name: Ankur Basak
+Phone: 
+Payment: BKASH
+
+Ordered Items:
+
+Total Price: $0
+-----
